@@ -1,0 +1,8 @@
+{
+  "realm": "<your-realm>",
+  "realm-public-key": "<your-realm-public-key>",
+  "bearer-only": true,
+  "auth-server-url": "<https://your.keycloak.server/auth>",
+  "ssl-required": "external",
+  "resource": "<your-client-id>"
+}

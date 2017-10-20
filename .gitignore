@@ -1,0 +1,9 @@
+project/target
+project/project
+target
+logs
+logs/*.log
+application.conf
+keycloak.json
+.idea
+.DS_Store
